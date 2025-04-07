@@ -6,8 +6,8 @@
 
 <div>
 <a href="https://github.com/Lramossantos">
-<img heigth="180em" src="https:github-readme-status.vercel.app/api?username-Lramossantos&shoe_icons-true&theme-dracula&include_all_commits-true&count_private-true"/>
-<img height="180em" src="https:github-readme-status.vercel.app/api/top-langs/?username=rafaballerini2&layout-compact&langs_count-168theme-dracula"/>
+<img heigth="180em" src="https://github-readme-status.vercel.app/api?username-Lramossantos&show_icons-true&theme-dracula&include_all_commits-true&count_private-true"/>
+<img height="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=Lramossantos&layout-compact&langs_count-168theme-dracula"/>
 
 </div>
 
