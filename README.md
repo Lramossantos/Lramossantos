@@ -3,18 +3,12 @@
 - 💼 Hoje trabalho com back-end
 - ☕ Estudando Java 
 - 😄 Pronouns: ele/dele
-
-<div>
-<a href= "https://github.com/Lramossantos">
-<a href= "https://github-readme-stats.vercel.app/api?username=Lramossantos&show_icons=true">
-<a href= "https://github-readme-stats.vercel.app/api?username=Lramossantos&show_icons=true&theme=radical">
-
-</div>
-
+  
 <picture>
+  <a href= "https://github.com/Lramossantos">
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Lramossantos&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Lramossantos&show_icons=true&theme=radical"
+    media="(prefers-color-scheme: radical)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Lramossantos&show_icons=true"
